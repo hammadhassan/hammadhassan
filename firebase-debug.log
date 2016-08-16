@@ -1,0 +1,16 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Hammad Hassan\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     win32
+[debug] Node Version: v6.3.1
+[debug] Time:         Tue Aug 16 2016 12:44:33 GMT+0500 (Pakistan Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[warn] !  "firebase" key in firebase.json is deprecated. Run firebase use --add instead
+[warn] !  Deprecation Warning: Firebase Hosting configuration should be moved under "hosting" key.
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: H:\HTML\FireBase
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
